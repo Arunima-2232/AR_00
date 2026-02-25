@@ -2,10 +2,6 @@ from os import path
 import speech_recognition as sr
 import sys
 import whisper
-import warnings
-import time
-import pyautogui
-import webbrowser
 import os
 import pyttsx3
 engine=pyttsx3.init()
